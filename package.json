@@ -1,0 +1,16 @@
+{
+  "name": "SequelizeMinhaStack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:minhaStack/Sequelize-tutorial.git",
+  "author": "theJoseNeto <joseneto180201@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize-cli": "^6.3.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
